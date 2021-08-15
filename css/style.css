@@ -1,0 +1,168 @@
+*{
+  font-family: 'Rubik', sans-serif;
+  box-sizing: border-box;
+}
+.container{
+  margin: 0 auto;
+  width: 1190px;
+  overflow: hidden;
+}
+ul{
+  padding: 0;
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+.head{
+  padding-top: 43px;
+}
+.head-list{
+  display: flex;
+  padding-left: 23px;
+}
+.logo{
+  display: flex;
+  align-items: center;
+}
+.head-item{
+  margin-right: 25px;
+  font-size: 16px;
+  line-height: 19px;
+  color: #7A7A7A;
+}
+.head-span{
+  font-size: 16px;
+  line-height: 19px;
+  color: #285193;
+}
+.headr-elements{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 65px;
+}
+.lup-img{
+  vertical-align: middle;
+
+}
+.telegram{   
+  background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+  border-radius: 5px;
+  padding: 11px 12px;
+  margin-left: 23px;
+}
+.telegram-span{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  
+}
+.ru-span{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #535353;
+
+}
+.ru-icon{
+  margin-left: 21px;
+  padding: 10px 11px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  vertical-align: middle;
+}
+.lup{
+  padding: 8px;
+  background: #FFFFFF;
+  border-radius: 5px;
+}
+.nav-list{
+  display: flex;
+  justify-content: space-between;
+}
+.nav-link{
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 23px;
+  color: #515151;
+}
+
+.container1{
+  margin: 0 auto;
+  background: #F6F6F9;
+  border-radius: 5px;
+  height: 133px;
+}
+.reclam{
+  padding-top: 40px;
+  padding-bottom: 45px;
+}
+/* COVID */
+.covid-list{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 40px;
+}
+.covid-item{
+  display: flex;
+  align-items: center;
+  padding: 0 42px 0 29px;
+  border-left: 2px solid #F4CCD1;
+}
+.covid-item1{
+  display: flex;
+  align-items: center;
+  padding-left: 35px;
+}
+.covid-item2{
+  display: flex;
+  align-items: center;
+  padding-right: 0;
+  padding-left: 27px;
+  border-left: 2px solid #F4CCD1;
+
+
+}
+
+.covid-title{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  margin-left: 20px;
+  margin-top: 0;
+  margin-bottom: 0%;
+}
+.covid-text{
+  margin: 0;
+  line-height: 21px;
+  color: #DB0000;
+}
+.covid-prise{
+  margin: 0;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 30px;
+  color: #000000;
+}
+.covid-contents{
+  margin-left: 15px;
+  font-size: 18px;
+  width: 161px;
+  
+}
+.covid-text1{
+  margin: 0;
+  line-height: 21px;
+  color: #05B135;
+}
+.covid-text2{
+  margin: 0;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+
